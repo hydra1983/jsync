@@ -1,0 +1,1 @@
+0. when sync from server to client, can not find referenced data on client, should the referenced data be persisted on client or just throw an exception?
